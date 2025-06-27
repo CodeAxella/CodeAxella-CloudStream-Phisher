@@ -7,7 +7,7 @@ cloudstream {
 
     description = "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) | Debian Users: Use Site Clone on Torrastream-Debian Example | Provider=Key OR TorBox=xxx-xxx-xxx-xxx"
     language    = "en"
-    authors = listOf("Phisher98")
+    authors = listOf("Phisher98", "CodeAxella")
 
     /**
     * Status int as the following:
