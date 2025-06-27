@@ -7,7 +7,7 @@ cloudstream {
 
     description = "Movies,Series and Anime French Extension "
     language    = "fr"
-    authors = listOf("Phisher98")
+    authors = listOf("Phisher98", "CodeAxella")
 
     /**
     * Status int as the following:
