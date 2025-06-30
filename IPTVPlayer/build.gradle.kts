@@ -4,9 +4,9 @@ version = 5
 
 cloudstream {
     // All of these properties are optional, you can safely remove them
-    language = "hi"
+    language = "id"
     description = "IPTV Player"
-    authors = listOf("Phisher98,Adippe")
+    authors = listOf("Phisher98,CodeSann")
 
     /**
      * Status int as the following:
