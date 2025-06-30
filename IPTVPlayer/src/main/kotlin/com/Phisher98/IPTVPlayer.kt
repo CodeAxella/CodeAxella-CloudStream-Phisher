@@ -14,7 +14,7 @@ import java.util.UUID
 
 class IPTVPlayer : MainAPI() {
     override var lang = "id"
-    override var mainUrl = "https://rebrand.ly/IPserver2"
+    override var mainUrl = "https://raw.githubusercontent.com/CodeAxella/Tv/refs/heads/main/B2%20KBTRTV.m3u"
     override var name = "IPTV Player"
     override val hasMainPage = true
     override val hasChromecastSupport = true
